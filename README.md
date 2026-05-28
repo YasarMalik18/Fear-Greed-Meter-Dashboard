@@ -1,4 +1,4 @@
-# Fear-Greed-Meter
+# Fear & Greed Meter Dashboard
 
 ## Overview
 This project analyzes market sentiment using a Fear & Greed Index created with Python and visualized in Power BI. The index helps understand whether the market is driven by fear or greed using financial indicators such as momentum, volatility, and market strength. The project demonstrates how financial data can be transformed into meaningful insights to support risk understanding and decision making.
